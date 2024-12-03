@@ -101,11 +101,3 @@ Este projeto é uma automação criada com Python e Selenium para acessar o site
 
 3. **Política de uso**:
    Use esta automação apenas para fins educacionais e com permissão. Automação de sites sem consentimento pode violar termos de uso.
-
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Abra uma _issue_ ou envie um _pull request_ com melhorias, correções ou novas funcionalidades.
-```
-
-Depois de copiar e colar no arquivo `README.md` no seu repositório, substitua `"https://github.com/seu-usuario/nome-do-repositorio.git"` pelo link correto do seu repositório.
